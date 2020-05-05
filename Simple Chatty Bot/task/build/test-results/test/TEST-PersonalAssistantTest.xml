@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-05T00:39:49" hostname="OZOBIACN3" time="0.184">
+  <properties/>
+  <testcase name="start" classname="PersonalAssistantTest" time="0.184"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello! My name is Chakana.
+I was created in 2020.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
