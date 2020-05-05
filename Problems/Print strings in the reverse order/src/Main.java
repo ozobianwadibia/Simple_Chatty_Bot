@@ -18,5 +18,6 @@ class Main {
         System.out.println(input3);
         System.out.println(input2);
         System.out.println(input1);
+
     }
 }
