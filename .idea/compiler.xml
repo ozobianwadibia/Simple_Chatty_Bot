@@ -18,12 +18,18 @@
       <module name="Problems-Hello,_Java_platform_main" target="11" />
       <module name="Problems-Hello,_Java_platform_test" target="11" />
       <module name="Problems-Hello,_Java_test" target="11" />
+      <module name="Problems-How_many_nuts_each_squirrel_will_get_main" target="11" />
+      <module name="Problems-How_many_nuts_each_squirrel_will_get_test" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_main" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
+      <module name="Problems-Next_even_number_main" target="11" />
+      <module name="Problems-Next_even_number_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_main" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_test" target="11" />
+      <module name="Problems-Snail_main" target="11" />
+      <module name="Problems-Snail_test" target="11" />
       <module name="Problems-The_countdown_main" target="11" />
       <module name="Problems-The_countdown_test" target="11" />
       <module name="Problems-The_forgotten_comments_main" target="11" />
