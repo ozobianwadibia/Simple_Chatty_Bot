@@ -10,5 +10,7 @@ class Main {
         int num4 = scanner.nextInt();
 
         System.out.println(--num1 + " " + --num2 + " " + --num3 + " " + --num4);
+
+
     }
 }

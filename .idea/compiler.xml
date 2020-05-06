@@ -8,6 +8,8 @@
       <module name="Problems-Cats_are_robots_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
       <module name="Problems-Decrement_all_test" target="11" />
+      <module name="Problems-Difference_of_times_main" target="11" />
+      <module name="Problems-Difference_of_times_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
       <module name="Problems-Fill_the_declaration_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
