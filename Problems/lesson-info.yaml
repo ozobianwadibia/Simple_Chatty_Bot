@@ -24,3 +24,5 @@ content:
 - Difference of times
 - Replacing 'a' with 'b'
 - Extracting a substring
+- Comparing strings ignoring whitespaces
+- Reversing
