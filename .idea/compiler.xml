@@ -16,6 +16,8 @@
       <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Difference_of_times_main" target="11" />
       <module name="Problems-Difference_of_times_test" target="11" />
+      <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
+      <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Extracting_a_substring_main" target="11" />
       <module name="Problems-Extracting_a_substring_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
