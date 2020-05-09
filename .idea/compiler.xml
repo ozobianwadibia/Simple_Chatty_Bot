@@ -58,6 +58,8 @@
       <module name="Problems-The_Hello_World_program_test" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Problems-Uncomment_a_line_main" target="11" />
+      <module name="Problems-Uncomment_a_line_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
