@@ -42,6 +42,8 @@
       <module name="Problems-How_many_nuts_each_squirrel_will_get_test" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_main" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_four_main" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_four_test" target="11" />
       <module name="Problems-Next_even_number_main" target="11" />
       <module name="Problems-Next_even_number_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
@@ -56,6 +58,8 @@
       <module name="Problems-Reversing_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
+      <module name="Problems-The_count_of_numbers_divisible_by_N_main" target="11" />
+      <module name="Problems-The_count_of_numbers_divisible_by_N_test" target="11" />
       <module name="Problems-The_countdown_main" target="11" />
       <module name="Problems-The_countdown_test" target="11" />
       <module name="Problems-The_forgotten_comments_main" target="11" />
