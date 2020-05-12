@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
             <option value="$PROJECT_DIR$/Problems/Cats are robots" />
             <option value="$PROJECT_DIR$/Problems/Check prefix ignoring the case" />
             <option value="$PROJECT_DIR$/Problems/Check the given numbers are different" />
@@ -43,6 +44,7 @@
             <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
             <option value="$PROJECT_DIR$/Problems/The countdown" />
             <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game" />
             <option value="$PROJECT_DIR$/Problems/Triangle" />
             <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
