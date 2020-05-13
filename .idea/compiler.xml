@@ -6,6 +6,8 @@
       <module name="Problems-Assignments_test" target="11" />
       <module name="Problems-Boys_in_a_sport_class_main" target="11" />
       <module name="Problems-Boys_in_a_sport_class_test" target="11" />
+      <module name="Problems-Bus_tour_main" target="11" />
+      <module name="Problems-Bus_tour_test" target="11" />
       <module name="Problems-Cats_are_robots_main" target="11" />
       <module name="Problems-Cats_are_robots_test" target="11" />
       <module name="Problems-Check_prefix_ignoring_the_case_main" target="11" />
@@ -24,6 +26,8 @@
       <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Difference_of_times_main" target="11" />
       <module name="Problems-Difference_of_times_test" target="11" />
+      <module name="Problems-Even_or_odd_main" target="11" />
+      <module name="Problems-Even_or_odd_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Extracting_a_substring_main" target="11" />
