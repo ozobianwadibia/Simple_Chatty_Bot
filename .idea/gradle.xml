@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
             <option value="$PROJECT_DIR$/Problems/Bus tour" />
@@ -44,6 +45,7 @@
             <option value="$PROJECT_DIR$/Problems/Reversing" />
             <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
             <option value="$PROJECT_DIR$/Problems/Snail" />
+            <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
             <option value="$PROJECT_DIR$/Problems/The Hello World program" />
             <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
             <option value="$PROJECT_DIR$/Problems/The countdown" />

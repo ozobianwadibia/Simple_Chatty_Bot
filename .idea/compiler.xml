@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Arithmetic_expression_main" target="11" />
+      <module name="Problems-Arithmetic_expression_test" target="11" />
       <module name="Problems-Assignments_main" target="11" />
       <module name="Problems-Assignments_test" target="11" />
       <module name="Problems-Boys_in_a_sport_class_main" target="11" />
@@ -68,6 +70,8 @@
       <module name="Problems-Reversing_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_main" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_test" target="11" />
       <module name="Problems-The_count_of_numbers_divisible_by_N_main" target="11" />
       <module name="Problems-The_count_of_numbers_divisible_by_N_test" target="11" />
       <module name="Problems-The_countdown_main" target="11" />
